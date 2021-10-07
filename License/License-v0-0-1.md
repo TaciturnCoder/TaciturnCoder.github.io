@@ -4,7 +4,7 @@
 [//]: # ( Licensed under the Taciturn Coder License v0.0.1, the "License";    )
 [//]: # ( You may not use this file except in compliance with the License.    )
 [//]: # ( You may obtain a copy of the License at:                            )
-[//]: # (         https://taciturncoder.github.io/Licenses/v0-0-1             )
+[//]: # (         https://taciturncoder.github.io/License/v0-0-1              )
 [//]: # (                                                                     )
 [//]: # ( See the License for the permissions and limitations.                )
 
@@ -16,12 +16,11 @@ Copyright 2021 Dwij Bavisi <dwijbavisi@gmail.com>
 All Rights Reserved.
 
 Following permissions are hereby granted, to any person obtaining a copy
-of this software and associated documentation files, the "Licensed Material",
+of this software, source code and/or associated documentation files, the "Licensed Material",
 
-The Licensed Material may be distributed.
-The Licensed Material may be modified.
 The Licensed Material may be used and modified in private.
-The Licensed Material and derivatives may be used for commercial purposes.
+The Licensed Material may be used and modified for commercial purposes.
+The Licensed Material may be distributed.
 
 (subject to the limitations in the Disclaimer below)
 and provided that the following Conditions are met:
@@ -35,11 +34,11 @@ and provided that the following Conditions are met:
 
 * Users who interact with the Licensed Material via network are given the right to receive a copy of the source code.
 
-* Modifications of existing files must be released under the same, or later versions of the same license when distributing the Licensed Material.
+* Modifications of existing files must be released under the same, or newer versions of the same license when distributing the Licensed Material.
 
 * Changes made to the Licensed Material must be documented.
 
-* Redistributions in binary form must reproduce the above Copyright Notice, this list of Conditions and the following Disclaimer in the documentation and/or other materials provided with the distribution.
+* Distributions in binary form must reproduce the above Copyright Notice, this list of Conditions and the following Disclaimer in the documentation and/or other materials provided with the distribution.
 
 * Neither the name of the Copyright Holder nor the names of its Contributors may be used to endorse or promote products derived from the Licensed Material without specific prior written permission.
 
